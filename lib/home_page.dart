@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
         ),
         width: 500,
         child: Padding(
-          padding: const EdgeInsets.symmetric(vertical: 295.0),
+          padding: const EdgeInsets.symmetric(vertical: 290.0),
           child: Column(
             children: <Widget>[
               FlatButton(

@@ -1,5 +1,4 @@
-# TIC TAC TOE | Flutter Web
+# TIC TAC TOE | Flutter
 
-<img src="ss1.png">
-<img src="ss2.png">
-<img src="ss3.png">
+<img src="tictactoe.png">
+
